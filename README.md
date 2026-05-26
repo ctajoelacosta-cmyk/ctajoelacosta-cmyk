@@ -1,8 +1,14 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
 <p align="center">
-  My name is <b>Joel Jesús Acosta</b> <br>
+  <b>I'm Joel Jesús Acosta</b><br>
   Junior Software Developer from Paraguay 🇵🇾
+</p>
+
+<p align="center">
+  <a href="https://github.com/ctajoelacosta-cmyk">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
@@ -20,23 +26,25 @@
 
 <h2 align="left">🛠️ Technologies & Tools</h2>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
+<div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" />
+<img width="15" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
+<img width="15" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" />
+<img width="15" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
+<img width="15" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" />
+
 </div>
 
 ---
@@ -44,5 +52,24 @@
 <h2 align="left">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ctajoelacosta-cmyk&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ctajoelacosta-cmyk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctajoelacosta-cmyk&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+<h2 align="left">🔥 Current Focus</h2>
+
+<p align="left">
+💻 Building Java projects <br>
+📚 Improving SQL and database skills <br>
+🌐 Learning version control with Git & GitHub <br>
+🚀 Growing step by step as a developer
+</p>
+
+---
+
+<h2 align="center">⭐ Thanks for visiting my profile!</h2>
