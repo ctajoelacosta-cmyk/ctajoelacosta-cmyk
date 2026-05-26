@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨  Passionate about software development and technology<br>📚🌱 I'm currently learning Java, SQL, Git & GitHub<br>🎯  Goals: Build real software projects and improve my development skills<br>🎲 ⚡ Fun fact: I love technology and continuous learning</p>
+<p align="left">✨  Passionate about software development and technology<br>📚 I'm currently learning Java, SQL, Git & GitHub<br>🎯  Goals: Build real software projects and improve my development skills<br>🎲  Fun fact: I love technology and continuous learning</p>
 
 ###
 
