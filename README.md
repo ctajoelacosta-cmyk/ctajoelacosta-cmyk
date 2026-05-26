@@ -31,4 +31,6 @@
 </div>
 
 ###
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctajoelacosta-cmyk&show_icons=true&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ctajoelacosta-cmyk&show_icons=true&theme=tokyonight" />
+</p>
